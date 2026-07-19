@@ -7,7 +7,7 @@ Offline Flutter app for classifying five indigenous Nigerian medicinal herbs fro
 - A Flutter UI for camera or gallery image selection.
 - On-device TensorFlow Lite inference with the supplied `plant_classifier.tflite`.
 - Result cards showing common name, scientific name, Yoruba name, medicinal uses, confidence, and a low-confidence warning.
-- A plant catalog seeded from the thesis document you shared.
+- A plant catalog of the 5 plants.
 
 
 
