@@ -7,3 +7,24 @@
 .pub-cache/
 build/
 
+
+# Local secrets and machine-specific files
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.keystore
+
+# Local virtual environments
+venv/.venv/
+env/
+
+# Local datasets and large generated artifacts
+data/
+dataset/
+datasets/
+*.tflite
+*.onnx
+
